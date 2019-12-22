@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GWorld Dining Companion</string>
+    <string name="restaurant_types_heading">Restaurant Types</string>
+    <string name="burgers">Burgers</string>
+    <string name="tacos">Tacos</string>
+    <string name="sushi">Sushi</string>
+    <string name="sandwiches">Sandwiches</string>
+    <string name="pizza">Pizza</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="select_all">Select All</string>
+    <string name="deselect_all">Deselect All</string>
+    <string name="search_radius_heading">Search Radius (m)</string>
+    <string name="search_radius_default">1500</string>
+    <string name="search_restaurants_button">Search For Restaurants</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="view_full_details">View Full Details</string>
+    <string name="checkbox_hint_text">Leave all checkboxes blank to indicate no preference</string>
+    <string name="choose_a_location">Choose a location</string>
+    <string name="view_reviews">Click here to see reviews</string>
+    <string name="ok">OK</string>
+    <string name="map_instructions_title">Instructions</string>
+    <string name="map_instructions">Long press anywhere on the map to search that area.\n\nBusinesses with a blue marker accept GWorld.\n\nYou can view the reviews for a selected location with the button at the bottom of the screen.</string>
+    <string name="no_reviews_title">No reviews found</string>
+    <string name="no_reviews">There don\'t appear to be any reviews for this business yet. Press OK to return to the map.</string>
+    <string name="no_results">No results found in search area.</string>
+</resources>
